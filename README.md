@@ -1,4 +1,4 @@
 # RiegoSmart
 Proyecto U
 
-https://riegosmart.000webhostapp.com/index.html
+https://riegosmart-71bc6.firebaseapp.com/
