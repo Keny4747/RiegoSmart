@@ -15,7 +15,7 @@ https://riegosmart-71bc6.firebaseapp.com/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/cYZdyD1/portada-pag-web.png)
-![App Screenshot](https://i.ibb.co/64gGqdN/segunda-imagen.png)
-![App Screenshot](https://i.ibb.co/5FrC9BX/tercera-imagen.png)
+![App Screenshot](https://imagizer.imageshack.com/img923/2684/kIP6T8.png)
+![App Screenshot](https://imagizer.imageshack.com/img924/2985/Oxyvgy.png)
+![App Screenshot](https://imagizer.imageshack.com/img924/8176/MSLpRv.png)
 
