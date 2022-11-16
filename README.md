@@ -1,7 +1,7 @@
 
 # RIEGO SMART
 
-Proyecto Universitario 2021
+Proyecto Universitario 2021| Tecnologias de Información II
 
 ## Authors
 
